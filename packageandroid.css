@@ -234,7 +234,7 @@
       }
     #tableb{
         color:white;
-        font-size:10px;
+        font-size:12px;
         border-collapse: collapse;
     }
     buttons img{
@@ -242,8 +242,8 @@ height:40px;
 width:40px;
     }
       .lastimg{
-        height:80px;
-        width:160px;
+        height:100px;
+        width:200px;
     }
 
     
@@ -259,12 +259,14 @@ width:40px;
         transition: 1s;
       }
       #mail{
-          width:30px;
-          height:30px;
+          width:15px;
+          height:15px;
+ 
       }
       #map{
-        width:30px;
-        height:30px;
+  
+        width:15px;
+        height:15px;
     }
     
 
