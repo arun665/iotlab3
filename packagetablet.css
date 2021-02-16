@@ -49,7 +49,7 @@
             display:none;
         }
         
-        .vl{
+        .divider2{
             border-left: 6px solid grey;
             height: 500px;
             position: absolute;
@@ -103,7 +103,7 @@
         }
         
         .vl {
-            border: 3px solid grey;
+            border-left: 3px solid grey;
             height: 100px;
             
           }
@@ -139,7 +139,14 @@
                 width:50%;
             }
 
-
+            #tableb{
+                color:white;font-weight:bold;
+            }
+            .lastimg{
+                height:150px;
+                width:300px;
+            }
+          
 
 
 
@@ -218,3 +225,12 @@
       }
     
     }
+
+
+  
+
+
+
+
+
+
